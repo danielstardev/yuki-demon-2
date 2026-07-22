@@ -7,9 +7,9 @@
   "license": "MIT",
   "repo_url": "https://github.com/danielstardev/yuki-demon-2",
   "repo_commit": "",
-  "artifact_sha256": "81e79c958be82e2639fa25be4807daca84b5a0364e3609aebb6afa385b772e0a",
+  "artifact_sha256": "3bcc97471d0701b9ca4febf67a916441d3c703aa763225111792709762ac3fdc",
   "artifact_basename": "current.joblib",
-  "implementation_sha256": "7e4d7b068a0e8da2ecbd4a666924f0b64232f49eb07740be1dc73b1eb6c473d5",
+  "implementation_sha256": "cb38488720a7310206c4e403273607ae8ed8f8989865d40648b99c06a8b4a2b2",
   "implementation_files": [
     "neurons/miner.py",
     "poker44_ml/inference.py",
